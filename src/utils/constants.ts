@@ -233,7 +233,7 @@ const n1C: AX = {
 // Start Testnet
 axcAssetID = "PWKAq5FttsA6RBC9FEqvexuxMEgFcLSJ2k9KQBAJwjxCSfrP9"
 const n5X: Swap = {
-  blockchainID: "MydqSTXUQPnfSYP4Ntb4faAnZPEm6YLmZqrXeAYPZKrtC2skY",
+  blockchainID: "1HvMnRTHEhkQjrJrx9XyYpwtEM8MoHZwpnwvuEber6U4jBaJ8",
   axcAssetID: axcAssetID,
   alias: SwapChainAlias,
   vm: SwapChainVMName,
@@ -316,7 +316,7 @@ export class Defaults {
     5: {
       hrp: exports.NetworkIDToHRP[5],
       Swap: n5X,
-      "MydqSTXUQPnfSYP4Ntb4faAnZPEm6YLmZqrXeAYPZKrtC2skY": n5X,
+      "1HvMnRTHEhkQjrJrx9XyYpwtEM8MoHZwpnwvuEber6U4jBaJ8": n5X,
       Core: n5P,
       "11111111111111111111111111111111LpoYY": n5P,
       AX: n5C,
